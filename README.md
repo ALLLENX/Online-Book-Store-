@@ -65,6 +65,17 @@ An innovative full-stack web application that functions as an online book reposi
   Reliable backend integration with JDBC and SQL for managing users, books, and chat data.
 
 ---
----
+## 👨‍💻 Author
 
+**Sahil Thakur**  
+3rd Year B.Tech Student – Information Technology  
+Passionate about full-stack development and backend systems, with a growing interest in secure web applications and system design.
+
+## 📫 Contact
+
+If you'd like to collaborate, hire, or discuss this project further — feel free to reach out!
+
+- 📧 Email: sahilthakur44567@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/sahilthakur](https://linkedin.com/in/sahilthakur)  
+- 📂 GitHub: [github.com/ALLLENX](https://github.com/ALLLENX)
 
