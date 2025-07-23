@@ -16,6 +16,7 @@ An innovative full-stack web application that functions as an online book reposi
 - 🔙 "Go Back to Home" navigation button
 
 ## 📸 UI Preview
+<img width="1896" height="869" alt="image" src="https://github.com/user-attachments/assets/7d107ddc-5252-4b47-a4f8-01299d7eb002" />
 
 ![UI Preview](https://img.freepik.com/free-vector/library-with-bookcases-ladder-chair-lamp_107791-3023.jpg)
 
